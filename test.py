@@ -1,8 +1,5 @@
 def funct():
-    ...
-
-def another():
-    print("Another")
+    print("first")
 
 if __name__ == '__main__':
     funct()
